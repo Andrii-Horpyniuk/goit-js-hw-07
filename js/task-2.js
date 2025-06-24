@@ -50,5 +50,5 @@ const images = [
   list.style.justifyContent = "center";
   list.style.rowGap = "48px";
   list.style.columnGap = "24px";
-  list.style.width = "calc((100% -96px) / 3";
+  list.style.width = "calc((100% -96px) / 3)";
   
